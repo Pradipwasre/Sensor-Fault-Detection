@@ -24,4 +24,5 @@ AWS ECR
 Git Actions
 Terraform
 
+
 conda activate C:\Users\Pradip\Desktop\MLOps\Sensor-Fault-Detection\venv
